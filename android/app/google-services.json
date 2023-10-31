@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103947682506",
+    "project_id": "socialapp-36631",
+    "storage_bucket": "socialapp-36631.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103947682506:android:068133cd69728c2572aa33",
+        "android_client_info": {
+          "package_name": "com.tomoshimizu.socialmediaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QY6Fn2jsJCPn-wbzHE5U1-Uo3lfL5RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
